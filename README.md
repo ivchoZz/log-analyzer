@@ -31,7 +31,7 @@ Analyze a log file and save the report to a file:
 
 ## Example
 
-Given a log file with entries like:
+## Given a log file with entries like:
     2026-08-19 10:19:15 INFO User logged in
     2026-08-19 10:20:02 ERROR Database connection failed
     2026-08-19 10:20:45 WARNING High memory usage
