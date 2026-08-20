@@ -39,7 +39,7 @@ Analyze a log file and save the report to a file:
     2026-08-19 10:22:00 INFO Server started
     2026-08-19 11:20:02 ERROR Database connection failed
 
-The tool outputs:
+## The tool outputs:
     === Log Analysis Report ===
     Total lines: 6
     Errors: 3
